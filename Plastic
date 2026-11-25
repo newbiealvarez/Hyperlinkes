@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paper Recycling</title>
+</head>
+
+<body>
+
+    <h1>Paper Recycling</h1>
+ 
+    <img src="file:///C:/Users/Administrator/Downloads/Plastic.jpg" width="300">
+
+    <h2>What is Paper Recycling?</h2>
+
+    <p>
+        Paper recycling is the process of collecting
+        used paper and turning it into new paper products.
+        It helps reduce waste and save trees.
+    </p>
+
+    <h2>Benefits of Paper Recycling</h2>
+
+    <ul>
+        <li>Helps save trees.</li>
+        <li>Reduces paper waste.</li>
+        <li>Saves natural resources.</li>
+        <li>Keeps the environment clean.</li>
+    </ul>
+
+    <h2>Examples of Recyclable Paper</h2>
+
+    <ul>
+        <li>Old newspapers</li>
+        <li>Used notebooks</li>
+        <li>Cardboard boxes</li>
+        <li>Paper bags</li>
+    </ul>
+
+    <a href="index.html">Back to Introduction</a>
+
+</body>
+</html>
