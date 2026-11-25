@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Metal Recycling</title>
+</head>
+
+<body>
+
+    <h1>Metal Recycling</h1>
+
+    <img src="file:///C:/Users/Administrator/Downloads/Metal.jpg" width="300">
+
+    <h2>What is Metal Recycling?</h2>
+
+    <p>
+        Metal recycling is the process of collecting
+        used metals and turning them into new products.
+        It helps reduce waste and save resources.
+    </p>
+
+    <h2>Benefits of Metal Recycling</h2>
+
+    <ul>
+        <li>Reduces metal waste.</li>
+        <li>Saves natural resources.</li>
+        <li>Saves energy.</li>
+        <li>Helps reduce pollution.</li>
+    </ul>
+
+    <h2>Examples of Recyclable Metals</h2>
+
+    <ul>
+        <li>Aluminum cans</li>
+        <li>Steel cans</li>
+        <li>Old metal containers</li>
+        <li>Scrap metal</li>
+    </ul>
+
+    <a href="index.html">Back to Introduction</a>
+
+</body>
+</html>
