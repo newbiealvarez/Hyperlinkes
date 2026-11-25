@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plastic Recycling</title>
+</head>
+
+<body>
+
+    <h1>Plastic Recycling</h1>
+
+    <img src="plastic.jpg" width="300">
+
+    <p>
+        Plastic recycling is the process of collecting
+        and reusing plastic materials to create new products.
+    </p>
+
+    <h2>Benefits of Plastic Recycling</h2>
+
+    <ul>
+        <li>Reduces plastic waste.</li>
+        <li>Helps prevent pollution.</li>
+        <li>Saves natural resources.</li>
+        <li>Protects animals and plants.</li>
+    </ul>
+
+    <a href="index.html">Back to Introduction</a>
+
+</body>
+</html>
